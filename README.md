@@ -1,6 +1,6 @@
-<h1 align="center">Hey 👋, I'm Abhay Gupta</h1>
-<h3 align="center">Full Stack Web Developer. I like indie music and skateboarding.</h3>
-
+<h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
+<h3 align="center">Full Stack Web Developer.</h3>
+<br />
 <h3 align="left">Get In Touch:</h3>
 <p align="left">
 	<a href="mailto:abhaysg2000@gmail.com" target="_blank">
@@ -35,6 +35,11 @@
 			height="30"
 			width="40"
 	/></a>
+	<br />
+</p>
+
+<h3 align="left">My Coding Experience:</h3>
+<p align="left">
 	<a href="https://www.hackerrank.com/abhaysg2000" target="blank"
 		><img
 			align="center"
@@ -43,10 +48,10 @@
 			height="30"
 			width="40"
 	/></a>
-	<a href="https://www.codechef.com/users/abhay299"
+	<a href="https://www.codechef.com/users/abhay299" target="blank"
 		><img
 			align="center"
-			src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+			src="https://avatars.githubusercontent.com/u/11960354?v=4"
 			alt="abhay299"
 			height="30"
 			width="40"
@@ -60,7 +65,7 @@
 			width="40"
 	/></a>
 </p>
-
+<br />
 <h3 align="left">What I Work With:</h3>
 <p align="left">
 	<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
@@ -89,7 +94,7 @@
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
+			src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png"
 			alt="express"
 			width="40"
 			height="40"
