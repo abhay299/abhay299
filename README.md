@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abhay Gupta</h1>
+<h1 align="center">Hey 👋, I'm Abhay Gupta</h1>
 <h3 align="center">Full Stack Web Developer. I like indie music and skateboarding.</h3>
 <br />
 <h3 align="left">Get In Touch:</h3>
