@@ -35,8 +35,8 @@
 			height="30"
 			width="40"
 	/></a>
-	<br />
 </p>
+<br />
 
 <h3 align="left">My Coding Experience:</h3>
 <p align="left">
