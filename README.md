@@ -43,7 +43,7 @@
 			height="30"
 			width="40"
 	/></a>
-	<a href="https://www.codechef.com/users/abhay299" target="blank"
+	<a href="https://www.codechef.com/users/abhay299"
 		><img
 			align="center"
 			src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
