@@ -78,7 +78,7 @@
 	</a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"
+			src="https://cdn-images-1.medium.com/max/1600/1*Vo5RDpNkOsfDn8sx06mthA.png"
 			alt="redux"
 			width="40"
 			height="40"
