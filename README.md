@@ -76,10 +76,18 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
-			alt="nodejs"
+			src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"
+			alt="redux"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+			alt="css3"
 			width="40"
 			height="40"
 		/>
@@ -92,10 +100,59 @@
 			height="40"
 		/>
 	</a>
+	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png"
+			alt="sass"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+			alt="html5"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
+		<img
+			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+			alt="nodejs"
+			width="40"
+			height="40"
+		/>
+	</a>
+	
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png"
 			alt="express"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://cdn.worldvectorlogo.com/logos/django.svg"
+			alt="django"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://banner2.cleanpng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg"
+			alt="mysql"
+			width="40"
+			height="40"
+		/>
+	</a>
+	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+		<img
+			src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"
+			alt="mongoDB"
 			width="40"
 			height="40"
 		/>
@@ -112,50 +169,10 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
-			alt="css3"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://banner2.cleanpng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg"
-			alt="mysql"
-			width="40"
-			height="40"
-		/>
-	</a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
 		<img
 			src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png"
 			alt="python"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://cdn.worldvectorlogo.com/logos/django.svg"
-			alt="django"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://assets.stickpng.com/images/5848309bcef1014c0b5e4a9a.png"
-			alt="redux"
-			width="40"
-			height="40"
-		/>
-	</a>
-	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png"
-			alt="sass"
 			width="40"
 			height="40"
 		/>
@@ -168,10 +185,10 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+	<a href="https://postman.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
-			alt="html5"
+			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
+			alt="postman"
 			width="40"
 			height="40"
 		/>
@@ -184,14 +201,6 @@
 			height="40"
 		/>
 	</a>
-	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
-			alt="figma"
-			width="40"
-			height="40"
-		/>
-	</a>
 	<a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
 		<img
 			src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
@@ -199,11 +208,11 @@
 			width="40"
 			height="40"
 		/>
-	</a>
-	<a href="https://postman.com" target="_blank" rel="noreferrer">
+	</a>	
+	<a href="https://www.figma.com/" target="_blank" rel="noreferrer">
 		<img
-			src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
-			alt="postman"
+			src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
+			alt="figma"
 			width="40"
 			height="40"
 		/>
