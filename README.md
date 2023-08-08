@@ -124,7 +124,6 @@
 			height="40"
 		/>
 	</a>
-	
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
 			src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png"
@@ -218,22 +217,6 @@
 		/>
 	</a>
 </p>
-<!-- 
-<p>
-	<img
-		align="left"
-		src="https://github-readme-stats.vercel.app/api/top-langs?username=abhay299&show_icons=true&locale=en&layout=compact"
-		alt="abhay299"
-	/>
-</p>
-
-<p>
-	&nbsp;<img
-		align="center"
-		src="https://github-readme-stats.vercel.app/api?username=abhay299&show_icons=true&locale=en"
-		alt="abhay299"
-	/>
-</p> -->
 
 <p>
 	<h3>A Little Stat From Github :)</h3>
