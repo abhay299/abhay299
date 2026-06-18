@@ -104,10 +104,8 @@ src="https://camo.githubusercontent.com/13a23fd060eacd604dd8e7051d27dda2ba288dfa
 	</a>
 	<a href="https://sass-lang.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1024px-Sass_Logo_Color.svg.png"
+src="https://camo.githubusercontent.com/ed994039d671a03dced57a96a610c37f7610392664255e51a24a002e5308b34a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f536173732d4343363639393f7374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d7768697465"
 			alt="sass"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -119,16 +117,13 @@ src="https://camo.githubusercontent.com/13a23fd060eacd604dd8e7051d27dda2ba288dfa
 		/>
 	</a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1200px-Node.js_logo.svg.png"
+		<img src="https://camo.githubusercontent.com/d3eeba2b0ea055d4668da93143f4433748e6bbd4979abd4c073ec5c6903fafcd/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e6f64652e6a732d3333393933333f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f6465646f746a73266c6f676f436f6c6f723d7768697465"
 			alt="nodejs"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://expressjs.com" target="_blank" rel="noreferrer">
 		<img
-			src="https://e7.pngegg.com/pngimages/925/447/png-clipart-express-js-node-js-javascript-mongodb-node-js-text-trademark.png"
+src="https://camo.githubusercontent.com/6204b512c647abf3f2c05601d4187e3fd17216349c8764429f609db962b254da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"
 			alt="express"
 			width="40"
 			height="40"
@@ -151,11 +146,8 @@ src="https://camo.githubusercontent.com/13a23fd060eacd604dd8e7051d27dda2ba288dfa
 		/>
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-		<img
-			src="https://w7.pngwing.com/pngs/956/695/png-transparent-mongodb-original-wordmark-logo-icon-thumbnail.png"
+		<img src="https://camo.githubusercontent.com/5cae1fdf7a88af39b48fd2fd673238c7978e55aed9f3f26b5c870a49d4be8025/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d6f6e676f44422d3437413234383f7374796c653d666f722d7468652d6261646765266c6f676f3d6d6f6e676f6462266c6f676f436f6c6f723d7768697465"
 			alt="mongoDB"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a
