@@ -109,11 +109,8 @@ src="https://camo.githubusercontent.com/ed994039d671a03dced57a96a610c37f76103926
 		/>
 	</a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png"
+		<img src="https://camo.githubusercontent.com/b108dc2388739d4cea2bef5cf6909c24a38398e393601fe6be0d7f63327431ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c352d4533344632363f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465"
 			alt="html5"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -125,8 +122,6 @@ src="https://camo.githubusercontent.com/ed994039d671a03dced57a96a610c37f76103926
 		<img
 src="https://camo.githubusercontent.com/6204b512c647abf3f2c05601d4187e3fd17216349c8764429f609db962b254da/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f457870726573732d3030303030303f7374796c653d666f722d7468652d6261646765266c6f676f3d65787072657373266c6f676f436f6c6f723d7768697465"
 			alt="express"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
@@ -137,12 +132,10 @@ src="https://camo.githubusercontent.com/6204b512c647abf3f2c05601d4187e3fd1721634
 			height="40"
 		/>
 	</a>
-	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+	<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
 		<img
-			src="https://banner2.cleanpng.com/20180821/lyg/kisspng-mysql-workbench-database-mysql-cluster-5b7cdc87c3dd20.3638601015349095758023.jpg"
-			alt="mysql"
-			width="40"
-			height="40"
+src="https://camo.githubusercontent.com/5d449b9369911768091bbdb3f514c0e2b1dc492b53c13962212c6798848ced34/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f737467726553514c2d3431363945313f7374796c653d666f722d7468652d6261646765266c6f676f3d706f737467726573716c266c6f676f436f6c6f723d7768697465"
+			alt="postgresql"
 		/>
 	</a>
 	<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
@@ -151,15 +144,23 @@ src="https://camo.githubusercontent.com/6204b512c647abf3f2c05601d4187e3fd1721634
 		/>
 	</a>
 	<a
+		href="https://www.typescriptlang.org/"
+		target="_blank"
+		rel="noreferrer"
+	>
+		<img
+src="https://camo.githubusercontent.com/2ab4127dedd4ccf7d3dbb0d440cacca4f720cbb4f06c74350a37f6925b828523/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547970655363726970742d3331373843363f7374796c653d666f722d7468652d6261646765266c6f676f3d74797065736372697074266c6f676f436f6c6f723d7768697465"
+			alt="typescript"
+		/>
+	</a>
+	<a
 		href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
 		target="_blank"
 		rel="noreferrer"
 	>
 		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"
+src="https://camo.githubusercontent.com/88b8bdce872268b3d0d7ec69e16716a0adf8fa0165eb6069bcb49e23bd5550ef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631453f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b"
 			alt="javascript"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://www.python.org" target="_blank" rel="noreferrer">
