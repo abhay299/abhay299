@@ -85,18 +85,13 @@
 	</a>
 	<a href="https://redux.js.org" target="_blank" rel="noreferrer">
 		<img
-			src="https://cdn-images-1.medium.com/max/1600/1*Vo5RDpNkOsfDn8sx06mthA.png"
+src="https://camo.githubusercontent.com/13a23fd060eacd604dd8e7051d27dda2ba288dfaacac02157bb01b04c86eb0ea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f52656475782d3736344142433f7374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d7768697465"
 			alt="redux"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-		<img
-			src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png"
+		<img	src="https://camo.githubusercontent.com/8034744803c27c8aaab4d20b74379109552d328526f309b09269da959b49fe0a/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f435353332d3135373242363f7374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d7768697465"
 			alt="css3"
-			width="40"
-			height="40"
 		/>
 	</a>
 	<a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
